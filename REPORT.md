@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Họ và tên | Đặng Hữu Tâm |
-| MSSV (đúng bằng `--student-id` bạn đã chạy) | 2A202602940 |
+| MSSV | 2A202602940 |
 | GitHub | tam253211-a11y |
 | Seed chia dữ liệu / seed mô hình (xem `evidence/closedloop.json`, mục `student`) | split seed 3464 / model seed 7634 (5 seed huấn luyện: 7634–7638) |
 | Số seed huấn luyện bạn dùng (`--seeds`) | 5 (mặc định) |
